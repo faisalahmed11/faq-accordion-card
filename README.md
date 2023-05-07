@@ -28,7 +28,7 @@ favicon and icons are given, more importantly the finial design is also given.
 
 ### Links
 
-- Live Site URL: [https://faq-accordion-card-c-challengee.vercel.app/](https://faq-accordion-card-challengee.vercel.app/)
+- Live Site URL: [https://faq-accordion-card-challengee.vercel.app/](https://faq-accordion-card-challengee.vercel.app/)
 
 ## My process
 
